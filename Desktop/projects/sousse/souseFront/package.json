@@ -85,7 +85,7 @@
     "react-native-web": "^0.14.8",
     "react-navigation": "^4.4.3",
     "react-nice-dates": "^3.0.7",
-    "react-rainbow-components": "^1.23.0",
+    "react-rainbow-components": "^1.32.0",
     "react-redux": "^7.2.2",
     "react-responsive-modal": "^6.0.1",
     "react-router-dom": "^5.2.0",
