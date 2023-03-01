@@ -82,7 +82,7 @@
     "react-native-table-component": "^1.2.1",
     "react-native-text-input-mask": "^2.0.0",
     "react-native-vector-icons": "^7.1.0",
-    "react-native-web": "^0.14.8",
+    "react-native-web": "^0.18.12",
     "react-navigation": "^4.4.3",
     "react-nice-dates": "^3.0.7",
     "react-rainbow-components": "^1.23.0",
