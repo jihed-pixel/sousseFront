@@ -62,7 +62,7 @@
     "react-json-tree": "^0.13.0",
     "react-json-viewer": "^2.1.0",
     "react-masked-text": "^0.4.1",
-    "react-native": "^0.63.3",
+    "react-native": "^0.71.2",
     "react-native-chart-kit": "^6.7.0",
     "react-native-datepicker": "^1.7.2",
     "react-native-datepicker-yaya": "^1.7.7",
