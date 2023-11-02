@@ -124,13 +124,13 @@ termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
 tf-estimator-nightly==1.14.0.dev2019030115
-tornado==5.1
+tornado==6.3.3
 traitlets==4.3.2
 urllib3==1.23
 virtualenv==16.7.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==3.0.1
 widgetsnbextension==3.4.1
 wrapt==1.11.2
 xlrd==1.2.0
