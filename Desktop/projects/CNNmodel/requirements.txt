@@ -17,7 +17,7 @@ cycler==0.10.0
 Cython==0.28.5
 decorator==4.3.0
 distro==1.4.0
-dnspython==1.16.0
+dnspython==2.6.0rc1
 docutils==0.14
 entrypoints==0.2.3
 Flask==1.0.2
