@@ -114,7 +114,7 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 SQLAlchemy==1.2.12
-sqlparse==0.3.0
+sqlparse==0.5.4
 statsmodels==0.9.0
 superintendent==0.2.3
 tb-nightly==1.14.0a20190301
@@ -126,7 +126,7 @@ testpath==0.3.1
 tf-estimator-nightly==1.14.0.dev2019030115
 tornado==5.1
 traitlets==4.3.2
-urllib3==1.23
+urllib3==2.6.0
 virtualenv==16.7.2
 wcwidth==0.1.7
 webencodings==0.5.1
@@ -134,3 +134,4 @@ Werkzeug==0.14.1
 widgetsnbextension==3.4.1
 wrapt==1.11.2
 xlrd==1.2.0
+django>=4.2.27 # not directly required, pinned by Snyk to avoid a vulnerability
